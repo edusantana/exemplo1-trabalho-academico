@@ -30,12 +30,15 @@ capítulo quatro os resultados obtidos da pesquisa. E por fim, no capítulo cinc
 considerações finais onde ressalta os pontos positivos e negativos deste trabalho.
 
 === OBJETIVOS
+
 ==== Objetivo geral
 
 Analisar a acessibilidade da infraestrutura dos espaços no setor de
 eventos dos hotéis associados ao Convention & Visitors Bureau que possuam
 mais de cem lugares localizados na cidade de João Pessoa- PB.
+
 ==== Objetivos específicos
+
 - Identificar o tipo de evento que é mais realizado nos hotéis;
 - Analisar a frequência de clientes com deficiência e/ou mobilidade
 reduzida nos eventos;
@@ -44,6 +47,7 @@ para receber clientes que necessitam de acessibilidade ou são flexíveis para
 eventuais adaptações.
 
 === 1.2 JUSTIFICATIVA
+
 Diante do crescimento no setor de eventos, percebemos a diversidade de
 pessoas que os frequentam, assim, incluindo as pessoas com deficiência ou
 mobilidade reduzida. Atualmente existem novas leis para a inclusão desse público
