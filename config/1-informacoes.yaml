@@ -7,6 +7,8 @@ local: "Mamanguape - PB"
 # \data{2015, v<VERSION>}
 orientador: "Prof. Esp. Juliano Sebastião Gonçalves Pereira."
 #coorientador: "xEquipe abnTeX" # sem coorientador
+examinador1: "Prof. Esp. Vitor Hugo Rocha de Vasconcelos"
+examinador2: "Prof. Esp. Rogério Paodjuenas"
 instituicao: "Universidade Federal da Paraíba – Campus IV."
 curso: "Curso de Bacharelado em Hotelaria"
 programa: "Graduação"
