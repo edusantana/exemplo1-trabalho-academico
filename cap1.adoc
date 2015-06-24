@@ -1,25 +1,30 @@
 == Introdução
 
-Este documento e seu código-fonte são exemplos de referência de uso da classe
-abntex2 e do pacote abntex2cite. O documento
-exemplifica a elaboração de trabalho acadêmico (tese, dissertação e outros do
-gênero) produzido conforme a ABNT NBR 14724:2011 _Informação e documentação
-- Trabalhos acadêmicos - Apresentação_.
+Um dos setores que vem se destacando no segmento turístico é o de
+eventos. Nunca é demais lembrar que a realização de um evento movimenta de
+forma significativa a cadeia produtiva da cidade que o abriga. E na rede hoteleira
+não é diferente, os hotéis vem investindo e implantando o departamento de eventos
+em seus empreendimentos, podendo assim, ser um ponto chave para a solução da
+sazonalidade. (SENAC 2011).
 
+Não basta só a implantação desse setor na rede hoteleira, precisa-se de uma
+estrutura física e organizacional preparada para o recebimento de uma diversidade
+de pessoas, fazendo com que todos se sintam iguais e bem acomodados. De acordo
+com o censo (2010) 45,6 milhões de pessoas no Brasil, ou seja, 23,9% da
+população brasileira possui algum tipo de deficiência. Sendo assim, será que o setor
+de eventos da rede hoteleira de João Pessoa está preparado para o recebimento de
+clientes especiais? Sabendo que, a participação de deficientes físicos e/ou
+mobilidade reduzida tem crescido bastante na prática de turismo e participação em
+eventos.footnote:[Adaptado: Shimosakai, Ricardo. Turismo Adaptado:
+http://turismoadaptado.wordpress.com/201/10/22/turismo-adaptado-e-debatido-em-forum-da-pessoa-com-deficiencia. 
+Acesso em: 21 out. 2013. Disponível:  Acesso em: 21 out. 2013.]
 
-[env.citacao]
---
-As citações com mais de três linhas devem aparecer no texto deste jeito.
-Eu adoro fazer citações, é fácil! Você está vendo um tempo de citação aqui. Você gostou também? Você não precisa se importar com formatação, é simples! Eu adorei! (ALEXANDRE, 2015)
---
-
-
-
-=== Objetivos
-
-Texto do objeto
-
-Objetivos específicos:
-
-- objet 1
-- objet 2
+Por isso, o presente trabalho analisou a acessibilidade no setor de eventos
+dos hotéis de João Pessoa. O mesmo foi dividido em cinco capítulos, além desta
+introdução. No segundo capítulo é abordada a fundamentação teórica que ressalta
+os principais tópicos do trabalho desde o início do turismo, dos eventos, da hotelaria
+o desenvolvimento turístico da cidade de João Pessoa e o último tópico onde mostra
+como deve ser a acessibilidade no setor de eventos. No terceiro capítulo encontram-
+se os procedimentos metodológicos necessários para a realização da pesquisa. No
+capítulo quatro os resultados obtidos da pesquisa. E por fim, no capítulo cinco as
+considerações finais onde ressalta os pontos positivos e negativos deste trabalho.
