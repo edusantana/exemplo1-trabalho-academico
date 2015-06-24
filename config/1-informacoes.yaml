@@ -2,15 +2,15 @@
 # Informações de dados para CAPA e FOLHA DE ROSTO
 # ---
 titulo: "ACESSIBILIDADE NO SETOR DE EVENTOS: Um estudo dos espaços para eventos nos hotéis da cidade de João Pessoa- PB"
-autor: Maria Isabelly Fernandes De Souza Nonato
-local: Mamanguape - PB
+autor: "Maria Isabelly Fernandes De Souza Nonato"
+local: "Mamanguape - PB"
 # \data{2015, v<VERSION>}
-orientador: Prof. Esp. Juliano Sebastião Gonçalves Pereira.
-coorientador: xEquipe abnTeX
-instituicao: Universidade Federal da Paraíba – Campus IV.
-curso: Curso de Bacharelado em Hotelaria
-programa: Graduação
+orientador: "Prof. Esp. Juliano Sebastião Gonçalves Pereira."
+coorientador: "xEquipe abnTeX"
+instituicao: "Universidade Federal da Paraíba – Campus IV."
+curso: "Curso de Bacharelado em Hotelaria"
+programa: "Graduação"
 # tipo_trabalho pode ser: Tese (Doutorado), Dissertação (Mestrado) ou Monografia (Graduação ou Especialização)
-tipo_trabalho: xDissertação
+tipo_trabalho: "xDissertação"
 # O preambulo deve conter o tipo do trabalho, o objetivo, o nome da instituição e a área de concentração
-preambulo: Monografia apresentada como requisito parcial para a obtenção da graduação em Hotelaria junto ao curso de Bacharelado em Hotelaria da Universidade Federal da Paraíba – Campus IV.
+preambulo: "Monografia apresentada como requisito parcial para a obtenção da graduação em Hotelaria junto ao curso de Bacharelado em Hotelaria da Universidade Federal da Paraíba – Campus IV."
