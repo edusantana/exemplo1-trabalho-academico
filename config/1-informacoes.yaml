@@ -6,7 +6,7 @@ autor: "Maria Isabelly Fernandes De Souza Nonato"
 local: "Mamanguape - PB"
 # \data{2015, v<VERSION>}
 orientador: "Prof. Esp. Juliano Sebastião Gonçalves Pereira."
-coorientador: "xEquipe abnTeX"
+#coorientador: "xEquipe abnTeX" # sem coorientador
 instituicao: "Universidade Federal da Paraíba – Campus IV."
 curso: "Curso de Bacharelado em Hotelaria"
 programa: "Graduação"
