@@ -46,7 +46,7 @@ reduzida nos eventos;
 para receber clientes que necessitam de acessibilidade ou são flexíveis para
 eventuais adaptações.
 
-=== 1.2 JUSTIFICATIVA
+=== JUSTIFICATIVA
 
 Diante do crescimento no setor de eventos, percebemos a diversidade de
 pessoas que os frequentam, assim, incluindo as pessoas com deficiência ou
