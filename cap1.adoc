@@ -7,8 +7,7 @@ não é diferente, os hotéis vem investindo e implantando o departamento de eve
 em seus empreendimentos, podendo assim, ser um ponto chave para a solução da
 sazonalidade. (SENAC 2011).
 
-[env.citacao]
---
+
 Não basta só a implantação desse setor na rede hoteleira, precisa-se de uma
 estrutura física e organizacional preparada para o recebimento de uma diversidade
 de pessoas, fazendo com que todos se sintam iguais e bem acomodados. De acordo
