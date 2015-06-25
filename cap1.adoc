@@ -7,6 +7,8 @@ não é diferente, os hotéis vem investindo e implantando o departamento de eve
 em seus empreendimentos, podendo assim, ser um ponto chave para a solução da
 sazonalidade. (SENAC 2011).
 
+[env.citacao]
+--
 Não basta só a implantação desse setor na rede hoteleira, precisa-se de uma
 estrutura física e organizacional preparada para o recebimento de uma diversidade
 de pessoas, fazendo com que todos se sintam iguais e bem acomodados. De acordo
@@ -18,6 +20,7 @@ mobilidade reduzida tem crescido bastante na prática de turismo e participaçã
 eventos.footnote:[Adaptado: Shimosakai, Ricardo. Turismo Adaptado:
 http://turismoadaptado.wordpress.com/201/10/22/turismo-adaptado-e-debatido-em-forum-da-pessoa-com-deficiencia. 
 Acesso em: 21 out. 2013. Disponível:  Acesso em: 21 out. 2013.]
+[env.citacao]
 
 Por isso, o presente trabalho analisou a acessibilidade no setor de eventos
 dos hotéis de João Pessoa. O mesmo foi dividido em cinco capítulos, além desta
