@@ -20,8 +20,9 @@ mobilidade reduzida tem crescido bastante na prática de turismo e participaçã
 eventos.footnote:[Adaptado: Shimosakai, Ricardo. Turismo Adaptado:
 http://turismoadaptado.wordpress.com/201/10/22/turismo-adaptado-e-debatido-em-forum-da-pessoa-com-deficiencia. 
 Acesso em: 21 out. 2013. Disponível:  Acesso em: 21 out. 2013.]
-[env.citacao]
 
+[env.citacao]
+--
 Por isso, o presente trabalho analisou a acessibilidade no setor de eventos
 dos hotéis de João Pessoa. O mesmo foi dividido em cinco capítulos, além desta
 introdução. No segundo capítulo é abordada a fundamentação teórica que ressalta
@@ -31,6 +32,7 @@ como deve ser a acessibilidade no setor de eventos. No terceiro capítulo encont
 se os procedimentos metodológicos necessários para a realização da pesquisa. No
 capítulo quatro os resultados obtidos da pesquisa. E por fim, no capítulo cinco as
 considerações finais onde ressalta os pontos positivos e negativos deste trabalho.
+--
 
 === OBJETIVOS
 
