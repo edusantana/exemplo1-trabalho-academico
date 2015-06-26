@@ -1,0 +1,19 @@
+
+---
+siglas:
+  -
+    sigla: CENSO
+    desc: Conjunto de dados estatísticos
+  -
+    sigla: "JPAC&VB"
+    desc: "João Pessoa Convention & Visitors Bureau"
+  -
+    sigla: "OMT"
+    desc: "Organização Mundial do Turismo"
+  -
+    sigla: PBTUR
+    desc: "Empresa Paraibana de Turismo"
+  -
+    sigla: SENAC
+    desc: Serviço Nacional de Aprendizagem Comercial
+---
